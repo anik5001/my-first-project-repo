@@ -1,0 +1,12 @@
+h1{
+    color:red;
+}
+p{
+    color: blue;
+}
+div{
+    background-color:blanchedalmond;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-image: -moz-element();
+}
